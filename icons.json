@@ -1,0 +1,679 @@
+{
+  "version": "1.0.0",
+  "count": 84,
+  "basePath": "icons/",
+  "icons": [
+    {
+      "name": "home",
+      "label": "Home",
+      "category": "navigation",
+      "file": "icons/home.png",
+      "width": 70,
+      "height": 66
+    },
+    {
+      "name": "search",
+      "label": "Search",
+      "category": "navigation",
+      "file": "icons/search.png",
+      "width": 59,
+      "height": 62
+    },
+    {
+      "name": "explore",
+      "label": "Explore",
+      "category": "navigation",
+      "file": "icons/explore.png",
+      "width": 69,
+      "height": 68
+    },
+    {
+      "name": "saved",
+      "label": "Saved",
+      "category": "navigation",
+      "file": "icons/saved.png",
+      "width": 68,
+      "height": 62
+    },
+    {
+      "name": "daily-card",
+      "label": "Daily Card",
+      "category": "content",
+      "file": "icons/daily-card.png",
+      "width": 68,
+      "height": 74
+    },
+    {
+      "name": "guides",
+      "label": "Guides",
+      "category": "content",
+      "file": "icons/guides.png",
+      "width": 64,
+      "height": 81
+    },
+    {
+      "name": "topics",
+      "label": "Topics",
+      "category": "content",
+      "file": "icons/topics.png",
+      "width": 88,
+      "height": 70
+    },
+    {
+      "name": "my-baby",
+      "label": "My Baby",
+      "category": "baby-care",
+      "file": "icons/my-baby.png",
+      "width": 65,
+      "height": 82
+    },
+    {
+      "name": "partner",
+      "label": "Partner",
+      "category": "partner-and-community",
+      "file": "icons/partner.png",
+      "width": 98,
+      "height": 72
+    },
+    {
+      "name": "community",
+      "label": "Community",
+      "category": "partner-and-community",
+      "file": "icons/community.png",
+      "width": 77,
+      "height": 61
+    },
+    {
+      "name": "messages",
+      "label": "Messages",
+      "category": "navigation",
+      "file": "icons/messages.png",
+      "width": 88,
+      "height": 76
+    },
+    {
+      "name": "settings",
+      "label": "Settings",
+      "category": "navigation",
+      "file": "icons/settings.png",
+      "width": 76,
+      "height": 76
+    },
+    {
+      "name": "feeding",
+      "label": "Feeding",
+      "category": "baby-care",
+      "file": "icons/feeding.png",
+      "width": 58,
+      "height": 83
+    },
+    {
+      "name": "sleep",
+      "label": "Sleep",
+      "category": "baby-care",
+      "file": "icons/sleep.png",
+      "width": 83,
+      "height": 78
+    },
+    {
+      "name": "development",
+      "label": "Development",
+      "category": "baby-care",
+      "file": "icons/development.png",
+      "width": 85,
+      "height": 77
+    },
+    {
+      "name": "sensory-play",
+      "label": "Sensory Play",
+      "category": "baby-care",
+      "file": "icons/sensory-play.png",
+      "width": 79,
+      "height": 74
+    },
+    {
+      "name": "play",
+      "label": "Play",
+      "category": "baby-care",
+      "file": "icons/play.png",
+      "width": 76,
+      "height": 73
+    },
+    {
+      "name": "solids",
+      "label": "Solids",
+      "category": "feeding",
+      "file": "icons/solids.png",
+      "width": 77,
+      "height": 76
+    },
+    {
+      "name": "diapering",
+      "label": "Diapering",
+      "category": "baby-care",
+      "file": "icons/diapering.png",
+      "width": 77,
+      "height": 62
+    },
+    {
+      "name": "health",
+      "label": "Health",
+      "category": "health",
+      "file": "icons/health.png",
+      "width": 59,
+      "height": 71
+    },
+    {
+      "name": "doctor-visits",
+      "label": "Doctor Visits",
+      "category": "health",
+      "file": "icons/doctor-visits.png",
+      "width": 73,
+      "height": 75
+    },
+    {
+      "name": "vaccinations",
+      "label": "Vaccinations",
+      "category": "health",
+      "file": "icons/vaccinations.png",
+      "width": 76,
+      "height": 72
+    },
+    {
+      "name": "growth-milestones",
+      "label": "Growth & Milestones",
+      "category": "growth-and-memories",
+      "file": "icons/growth-milestones.png",
+      "width": 67,
+      "height": 83
+    },
+    {
+      "name": "wellbeing",
+      "label": "Wellbeing",
+      "category": "parent-wellbeing",
+      "file": "icons/wellbeing.png",
+      "width": 78,
+      "height": 78
+    },
+    {
+      "name": "breastfeeding",
+      "label": "Breastfeeding",
+      "category": "feeding",
+      "file": "icons/breastfeeding.png",
+      "width": 80,
+      "height": 91
+    },
+    {
+      "name": "formula",
+      "label": "Formula",
+      "category": "feeding",
+      "file": "icons/formula.png",
+      "width": 58,
+      "height": 82
+    },
+    {
+      "name": "burping",
+      "label": "Burping",
+      "category": "baby-care",
+      "file": "icons/burping.png",
+      "width": 84,
+      "height": 74
+    },
+    {
+      "name": "pumping",
+      "label": "Pumping",
+      "category": "feeding",
+      "file": "icons/pumping.png",
+      "width": 54,
+      "height": 76
+    },
+    {
+      "name": "recipes",
+      "label": "Recipes",
+      "category": "feeding",
+      "file": "icons/recipes.png",
+      "width": 82,
+      "height": 77
+    },
+    {
+      "name": "food-ideas",
+      "label": "Food Ideas",
+      "category": "feeding",
+      "file": "icons/food-ideas.png",
+      "width": 76,
+      "height": 73
+    },
+    {
+      "name": "weaning",
+      "label": "Weaning",
+      "category": "feeding",
+      "file": "icons/weaning.png",
+      "width": 72,
+      "height": 87
+    },
+    {
+      "name": "hydration",
+      "label": "Hydration",
+      "category": "feeding",
+      "file": "icons/hydration.png",
+      "width": 72,
+      "height": 75
+    },
+    {
+      "name": "mealtime",
+      "label": "Mealtime",
+      "category": "feeding",
+      "file": "icons/mealtime.png",
+      "width": 75,
+      "height": 78
+    },
+    {
+      "name": "nutrition",
+      "label": "Nutrition",
+      "category": "feeding",
+      "file": "icons/nutrition.png",
+      "width": 72,
+      "height": 78
+    },
+    {
+      "name": "allergies",
+      "label": "Allergies",
+      "category": "feeding",
+      "file": "icons/allergies.png",
+      "width": 78,
+      "height": 80
+    },
+    {
+      "name": "meal-plan",
+      "label": "Meal Plan",
+      "category": "feeding",
+      "file": "icons/meal-plan.png",
+      "width": 72,
+      "height": 85
+    },
+    {
+      "name": "sleep-routine",
+      "label": "Sleep Routine",
+      "category": "sleep",
+      "file": "icons/sleep-routine.png",
+      "width": 79,
+      "height": 70
+    },
+    {
+      "name": "nursery",
+      "label": "Nursery",
+      "category": "sleep",
+      "file": "icons/nursery.png",
+      "width": 86,
+      "height": 68
+    },
+    {
+      "name": "sleep-aids",
+      "label": "Sleep Aids",
+      "category": "sleep",
+      "file": "icons/sleep-aids.png",
+      "width": 81,
+      "height": 78
+    },
+    {
+      "name": "soothing",
+      "label": "Soothing",
+      "category": "baby-care",
+      "file": "icons/soothing.png",
+      "width": 60,
+      "height": 75
+    },
+    {
+      "name": "white-noise",
+      "label": "White Noise",
+      "category": "sleep",
+      "file": "icons/white-noise.png",
+      "width": 60,
+      "height": 69
+    },
+    {
+      "name": "comfort-items",
+      "label": "Comfort Items",
+      "category": "baby-care",
+      "file": "icons/comfort-items.png",
+      "width": 66,
+      "height": 83
+    },
+    {
+      "name": "nighttime-routine",
+      "label": "Nighttime Routine",
+      "category": "sleep",
+      "file": "icons/nighttime-routine.png",
+      "width": 76,
+      "height": 72
+    },
+    {
+      "name": "parenting-tips",
+      "label": "Parenting Tips",
+      "category": "content",
+      "file": "icons/parenting-tips.png",
+      "width": 68,
+      "height": 77
+    },
+    {
+      "name": "expert-advice",
+      "label": "Expert Advice",
+      "category": "content",
+      "file": "icons/expert-advice.png",
+      "width": 87,
+      "height": 69
+    },
+    {
+      "name": "articles",
+      "label": "Articles",
+      "category": "content",
+      "file": "icons/articles.png",
+      "width": 64,
+      "height": 77
+    },
+    {
+      "name": "videos",
+      "label": "Videos",
+      "category": "content",
+      "file": "icons/videos.png",
+      "width": 82,
+      "height": 65
+    },
+    {
+      "name": "podcasts",
+      "label": "Podcasts",
+      "category": "content",
+      "file": "icons/podcasts.png",
+      "width": 55,
+      "height": 74
+    },
+    {
+      "name": "nappy-change",
+      "label": "Nappy Change",
+      "category": "baby-care",
+      "file": "icons/nappy-change.png",
+      "width": 104,
+      "height": 62
+    },
+    {
+      "name": "wipes",
+      "label": "Wipes",
+      "category": "baby-care",
+      "file": "icons/wipes.png",
+      "width": 82,
+      "height": 77
+    },
+    {
+      "name": "bath-time",
+      "label": "Bath Time",
+      "category": "baby-care",
+      "file": "icons/bath-time.png",
+      "width": 92,
+      "height": 77
+    },
+    {
+      "name": "skincare",
+      "label": "Skincare",
+      "category": "baby-care",
+      "file": "icons/skincare.png",
+      "width": 52,
+      "height": 85
+    },
+    {
+      "name": "illness-care",
+      "label": "Illness Care",
+      "category": "health",
+      "file": "icons/illness-care.png",
+      "width": 73,
+      "height": 71
+    },
+    {
+      "name": "medicine",
+      "label": "Medicine",
+      "category": "health",
+      "file": "icons/medicine.png",
+      "width": 56,
+      "height": 78
+    },
+    {
+      "name": "first-aid",
+      "label": "First Aid",
+      "category": "health",
+      "file": "icons/first-aid.png",
+      "width": 72,
+      "height": 72
+    },
+    {
+      "name": "health-log",
+      "label": "Health Log",
+      "category": "health",
+      "file": "icons/health-log.png",
+      "width": 72,
+      "height": 66
+    },
+    {
+      "name": "doctor-appointments",
+      "label": "Doctor Appointments",
+      "category": "health",
+      "file": "icons/doctor-appointments.png",
+      "width": 88,
+      "height": 77
+    },
+    {
+      "name": "immunisations",
+      "label": "Immunisations",
+      "category": "health",
+      "file": "icons/immunisations.png",
+      "width": 70,
+      "height": 80
+    },
+    {
+      "name": "health-checklist",
+      "label": "Health Checklist",
+      "category": "health",
+      "file": "icons/health-checklist.png",
+      "width": 72,
+      "height": 87
+    },
+    {
+      "name": "growth-tracker",
+      "label": "Growth Tracker",
+      "category": "growth-and-memories",
+      "file": "icons/growth-tracker.png",
+      "width": 76,
+      "height": 71
+    },
+    {
+      "name": "routine",
+      "label": "Routine",
+      "category": "planning",
+      "file": "icons/routine.png",
+      "width": 64,
+      "height": 67
+    },
+    {
+      "name": "reminders",
+      "label": "Reminders",
+      "category": "navigation",
+      "file": "icons/reminders.png",
+      "width": 66,
+      "height": 66
+    },
+    {
+      "name": "notifications",
+      "label": "Notifications",
+      "category": "navigation",
+      "file": "icons/notifications.png",
+      "width": 56,
+      "height": 62
+    },
+    {
+      "name": "to-do",
+      "label": "To Do",
+      "category": "planning",
+      "file": "icons/to-do.png",
+      "width": 65,
+      "height": 65
+    },
+    {
+      "name": "partner-sync",
+      "label": "Partner Sync",
+      "category": "partner-and-community",
+      "file": "icons/partner-sync.png",
+      "width": 71,
+      "height": 58
+    },
+    {
+      "name": "co-parenting",
+      "label": "Co-parenting",
+      "category": "partner-and-community",
+      "file": "icons/co-parenting.png",
+      "width": 76,
+      "height": 63
+    },
+    {
+      "name": "mental-health",
+      "label": "Mental Health",
+      "category": "parent-wellbeing",
+      "file": "icons/mental-health.png",
+      "width": 64,
+      "height": 58
+    },
+    {
+      "name": "self-care",
+      "label": "Self Care",
+      "category": "parent-wellbeing",
+      "file": "icons/self-care.png",
+      "width": 76,
+      "height": 64
+    },
+    {
+      "name": "me-time",
+      "label": "Me Time",
+      "category": "parent-wellbeing",
+      "file": "icons/me-time.png",
+      "width": 67,
+      "height": 70
+    },
+    {
+      "name": "fitness",
+      "label": "Fitness",
+      "category": "parent-wellbeing",
+      "file": "icons/fitness.png",
+      "width": 82,
+      "height": 68
+    },
+    {
+      "name": "support-groups",
+      "label": "Support Groups",
+      "category": "partner-and-community",
+      "file": "icons/support-groups.png",
+      "width": 97,
+      "height": 58
+    },
+    {
+      "name": "ask-a-question",
+      "label": "Ask a Question",
+      "category": "partner-and-community",
+      "file": "icons/ask-a-question.png",
+      "width": 71,
+      "height": 68
+    },
+    {
+      "name": "find-support",
+      "label": "Find Support",
+      "category": "partner-and-community",
+      "file": "icons/find-support.png",
+      "width": 51,
+      "height": 68
+    },
+    {
+      "name": "nearby-services",
+      "label": "Nearby Services",
+      "category": "partner-and-community",
+      "file": "icons/nearby-services.png",
+      "width": 55,
+      "height": 69
+    },
+    {
+      "name": "product-picks",
+      "label": "Product Picks",
+      "category": "shopping",
+      "file": "icons/product-picks.png",
+      "width": 68,
+      "height": 63
+    },
+    {
+      "name": "registry",
+      "label": "Registry",
+      "category": "shopping",
+      "file": "icons/registry.png",
+      "width": 58,
+      "height": 70
+    },
+    {
+      "name": "offers",
+      "label": "Offers",
+      "category": "shopping",
+      "file": "icons/offers.png",
+      "width": 61,
+      "height": 64
+    },
+    {
+      "name": "milestones",
+      "label": "Milestones",
+      "category": "growth-and-memories",
+      "file": "icons/milestones.png",
+      "width": 69,
+      "height": 61
+    },
+    {
+      "name": "photos",
+      "label": "Photos",
+      "category": "growth-and-memories",
+      "file": "icons/photos.png",
+      "width": 69,
+      "height": 62
+    },
+    {
+      "name": "journal",
+      "label": "Journal",
+      "category": "growth-and-memories",
+      "file": "icons/journal.png",
+      "width": 64,
+      "height": 71
+    },
+    {
+      "name": "progress",
+      "label": "Progress",
+      "category": "growth-and-memories",
+      "file": "icons/progress.png",
+      "width": 66,
+      "height": 59
+    },
+    {
+      "name": "achievements",
+      "label": "Achievements",
+      "category": "growth-and-memories",
+      "file": "icons/achievements.png",
+      "width": 71,
+      "height": 70
+    },
+    {
+      "name": "special-days",
+      "label": "Special Days",
+      "category": "growth-and-memories",
+      "file": "icons/special-days.png",
+      "width": 69,
+      "height": 73
+    },
+    {
+      "name": "gift-ideas",
+      "label": "Gift Ideas",
+      "category": "shopping",
+      "file": "icons/gift-ideas.png",
+      "width": 64,
+      "height": 67
+    }
+  ]
+}
